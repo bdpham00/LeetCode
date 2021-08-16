@@ -6,7 +6,8 @@ namespace CSharpConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            LinkedListSolution sol = new LinkedListSolution(); 
+            sol.AddTwoNumbers(); 
         }
     }
 }

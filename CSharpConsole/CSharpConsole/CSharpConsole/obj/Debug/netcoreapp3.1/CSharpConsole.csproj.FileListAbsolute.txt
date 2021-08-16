@@ -1,0 +1,14 @@
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\bin\Debug\netcoreapp3.1\CSharpConsole.exe
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\bin\Debug\netcoreapp3.1\CSharpConsole.deps.json
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\bin\Debug\netcoreapp3.1\CSharpConsole.runtimeconfig.json
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\bin\Debug\netcoreapp3.1\CSharpConsole.runtimeconfig.dev.json
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\bin\Debug\netcoreapp3.1\CSharpConsole.dll
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\bin\Debug\netcoreapp3.1\CSharpConsole.pdb
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.csproj.AssemblyReference.cache
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.AssemblyInfoInputs.cache
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.AssemblyInfo.cs
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.csproj.CoreCompileInputs.cache
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.dll
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.pdb
+C:\Users\bdpha\Source\Repos\LeetCode\CSharpConsole\CSharpConsole\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.genruntimeconfig.cache
