@@ -43,3 +43,7 @@ CSharpConsole/CSharpConsole/CSharpConsole/obj/Debug/netcoreapp3.1/CSharpConsole.
 CSharpConsole/CSharpConsole/CSharpConsole/obj/Debug/netcoreapp3.1/CSharpConsole.GeneratedMSBuildEditorConfig.editorconfig
 CSharpConsole/CSharpConsole/CSharpConsole/obj/Debug/netcoreapp3.1/CSharpConsole.genruntimeconfig.cache
 CSharpConsole/CSharpConsole/CSharpConsole/obj/Debug/netcoreapp3.1/CSharpConsole.pdb
+/CSharpConsole/LongestSubstringWithoutRepeatingCharacters/bin/Debug/netcoreapp3.1
+/CSharpConsole/LongestSubstringWithoutRepeatingCharacters/obj
+/CSharpConsole/CSharpConsole/.vs/CSharpConsole/DesignTimeBuild/.dtbcache.v2
+/CSharpConsole/obj/Debug/netcoreapp2.1/CSharpConsole.GeneratedMSBuildEditorConfig.editorconfig
